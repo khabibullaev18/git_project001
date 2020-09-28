@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("I want to have a conflict");
 		
 		System.out.println("I want to have a second conflict");
+		System.out.println("This is the third commit from local master");
 		
 	}
 }
